@@ -1,6 +1,6 @@
-# ⚡ root@alessio:~$ whoami
+# 🦄 Alessio Polidoro
 
-> Product Designer | Service Design & UX Strategy for regulated, complex environments  
+> Product Designer | Service Design & UX Strategy for regulated, complex and ambiguous environments.
 > Turning institutional complexity into usable, accessible, compliant digital services.
 
 ---
