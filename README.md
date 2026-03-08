@@ -47,13 +47,14 @@
 
 ## 🚀 Featured Projects
 
+- **[Play2Impact — EU Commission DIGIT Hackathon]([https://alessiopolidoro.com](https://www.alessiopolidoro.com/case-studies/ai-draft-to-brief))** — AI-assisted content management for Commission content creators. Special Mention. Solution flagged for integration into Core Drupal AI track.
+
 - **[Complia](https://complia.app)** — GDPR-compliant cookie banner generator. Zero dark patterns, WCAG AA baked in, zero dependencies. Built in Vanilla JS in 20 hours.
 
-- **[Wakafrica](https://alessiopolidoro.com)** — Cross-border diaspora commerce ecosystem. Service design, monolith unbundling into Vendor Dashboard + Buyer App. Full design system from scratch (tokens, primitives, semantic variables, state management). Designed for noisy environments, over-50 beneficiaries, stock constraint logic.
+- **[Wakafrica]([https://alessiopolidoro.com](https://www.alessiopolidoro.com/case-studies/wakafrica))** — Cross-border diaspora commerce ecosystem. Service design, monolith unbundling into Vendor Dashboard + Buyer App. Full design system from scratch (tokens, primitives, semantic variables, state management). Designed for noisy environments, over-50 beneficiaries, stock constraint logic.
 
-- **[LEX AI](https://alessiopolidoro.com)** — Enterprise legal-tech UX strategy. Adopted as official corporate platform. 80% alignment with Thomson Reuters standards. ROI calculator for Fortune 500 legal departments.
+- **[LEX AI]([https://alessiopolidoro.com](https://www.alessiopolidoro.com/case-studies/lex-ai))** — Enterprise legal-tech UX strategy. Adopted as official corporate platform. 80% alignment with Thomson Reuters standards. ROI calculator for Fortune 500 legal departments.
 
-- **[Play2Impact — EU Commission DIGIT Hackathon](https://alessiopolidoro.com)** — AI-assisted content management for Commission content creators. Special Mention. Solution flagged for integration into Core Drupal AI track.
 
 ---
 
